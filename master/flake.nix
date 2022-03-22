@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-pythonmath-master.flake = false;
+  inputs.src-pythonmath-master.ref   = "refs/heads/master";
   inputs.src-pythonmath-master.owner = "achesak";
-  inputs.src-pythonmath-master.ref   = "master";
   inputs.src-pythonmath-master.repo  = "nim-pythonmath";
   inputs.src-pythonmath-master.type  = "github";
   
