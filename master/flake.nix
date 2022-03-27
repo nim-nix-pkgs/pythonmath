@@ -11,6 +11,7 @@
   inputs.src-pythonmath-master.ref   = "refs/heads/master";
   inputs.src-pythonmath-master.owner = "achesak";
   inputs.src-pythonmath-master.repo  = "nim-pythonmath";
+  inputs.src-pythonmath-master.dir   = "";
   inputs.src-pythonmath-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
