@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652797608,
-        "narHash": "sha256-yPqnRg2N34qVIEq06uSgi3deH4p/l8e7RsXPsoBHTLU=",
+        "lastModified": 1653690103,
+        "narHash": "sha256-1ccNU92oRrKr3Xctukkpv2PIk8+bjwMyEpQQfPC2eg8=",
         "owner": "nim-nix-pkgs",
         "repo": "pythonmath",
-        "rev": "6f592bfe64df97c6c1f6bd6fea53a9707bf65996",
+        "rev": "45923f050fecc3893dae81d09126b75cd10a1816",
         "type": "github"
       },
       "original": {
