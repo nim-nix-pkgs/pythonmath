@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -47,11 +47,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254766,
-        "narHash": "sha256-BTGPrhFXk+tkqmWHaz5PqCxJEgzaxzklyO5pNjbRxqY=",
+        "lastModified": 1667322608,
+        "narHash": "sha256-2yZmJ4C5E+oLAu3tFZwNw9uTNHB1vqtPHHWvNOhBbLQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pythonmath",
-        "rev": "89424b6fc97286759180f027e8d07c663fdc4996",
+        "rev": "1e7a6ac5cb0d4d84f0283d1178e12433a33d2402",
         "type": "github"
       },
       "original": {
